@@ -1,2 +1,2 @@
 # Marek-website
-this is a shared file testing sharing it
+this is a website I am making with someone else
